@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="4.2">
+  <Ad id="12345">
+    <InLine>
+      <AdSystem version="1.0">Zanany Ad Server</AdSystem>
+      <AdTitle>Example Audio Ad</AdTitle>
+      <Impression><![CDATA[https://example.com/impression-tracking]]></Impression>
+      <Creatives>
+        <Creative id="audio123" sequence="1">
+          <Linear>
+            <Duration>00:00:15</Duration>
+            <TrackingEvents>
+              <Tracking event="start"><![CDATA[https://example.com/start-tracking]]></Tracking>
+              <Tracking event="midpoint"><![CDATA[https://example.com/midpoint-tracking]]></Tracking>
+              <Tracking event="complete"><![CDATA[https://example.com/complete-tracking]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickThrough><![CDATA[https://example.com/clickthrough]]></ClickThrough>
+              <ClickTracking><![CDATA[https://example.com/click-tracking]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="audio/mpeg" bitrate="320" samplingrate="44100">
+                <![CDATA[https://zanany.com/wp-content/uploads/2024/12/Zanany-Live.mp3]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
