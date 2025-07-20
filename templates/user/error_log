@@ -1,0 +1,120 @@
+[02-Feb-2025 13:07:02 UTC] PHP Warning:  Undefined variable $item in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[02-Feb-2025 13:07:02 UTC] PHP Warning:  Attempt to read property "notifier_id" on null in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[02-Feb-2025 13:07:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_userdata() in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 7
+[02-Feb-2025 13:07:27 UTC] PHP Warning:  Undefined variable $item in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[02-Feb-2025 13:07:27 UTC] PHP Warning:  Attempt to read property "notifier_id" on null in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[02-Feb-2025 13:07:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_userdata() in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 7
+[07-Feb-2025 02:35:48 UTC] PHP Warning:  Undefined variable $item in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[07-Feb-2025 02:35:48 UTC] PHP Warning:  Attempt to read property "notifier_id" on null in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[07-Feb-2025 02:35:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_userdata() in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 7
+[07-Feb-2025 02:36:18 UTC] PHP Warning:  Undefined variable $item in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[07-Feb-2025 02:36:18 UTC] PHP Warning:  Attempt to read property "notifier_id" on null in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[07-Feb-2025 02:36:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_userdata() in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 7
+[07-Feb-2025 02:37:07 UTC] PHP Warning:  Undefined variable $item in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[07-Feb-2025 02:37:07 UTC] PHP Warning:  Attempt to read property "notifier_id" on null in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[07-Feb-2025 02:37:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_userdata() in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 7
+[14-Feb-2025 09:35:16 UTC] PHP Warning:  Undefined variable $item in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[14-Feb-2025 09:35:16 UTC] PHP Warning:  Attempt to read property "notifier_id" on null in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[14-Feb-2025 09:35:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_userdata() in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 7
+[14-Feb-2025 09:35:47 UTC] PHP Warning:  Undefined variable $item in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[14-Feb-2025 09:35:47 UTC] PHP Warning:  Attempt to read property "notifier_id" on null in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[14-Feb-2025 09:35:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_userdata() in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 7
+[14-Feb-2025 09:36:26 UTC] PHP Warning:  Undefined variable $item in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[14-Feb-2025 09:36:26 UTC] PHP Warning:  Attempt to read property "notifier_id" on null in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[14-Feb-2025 09:36:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_userdata() in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 7
+[24-Feb-2025 00:07:23 UTC] PHP Warning:  Undefined variable $item in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[24-Feb-2025 00:07:23 UTC] PHP Warning:  Attempt to read property "notifier_id" on null in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[24-Feb-2025 00:07:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_userdata() in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 7
+[24-Feb-2025 00:07:56 UTC] PHP Warning:  Undefined variable $item in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[24-Feb-2025 00:07:56 UTC] PHP Warning:  Attempt to read property "notifier_id" on null in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[24-Feb-2025 00:07:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_userdata() in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 7
+[24-Feb-2025 00:08:37 UTC] PHP Warning:  Undefined variable $item in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[24-Feb-2025 00:08:37 UTC] PHP Warning:  Attempt to read property "notifier_id" on null in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[24-Feb-2025 00:08:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_userdata() in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 7
+[03-Mar-2025 06:50:32 UTC] PHP Warning:  Undefined variable $item in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[03-Mar-2025 06:50:32 UTC] PHP Warning:  Attempt to read property "notifier_id" on null in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[03-Mar-2025 06:50:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_userdata() in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 7
+[05-Apr-2025 21:27:03 UTC] PHP Warning:  Undefined variable $item in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[05-Apr-2025 21:27:03 UTC] PHP Warning:  Attempt to read property "notifier_id" on null in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[05-Apr-2025 21:27:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_userdata() in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 7
+[06-May-2025 22:34:27 UTC] PHP Warning:  Undefined variable $item in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[06-May-2025 22:34:27 UTC] PHP Warning:  Attempt to read property "notifier_id" on null in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[06-May-2025 22:34:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_userdata() in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 7
+[07-May-2025 00:27:22 UTC] PHP Warning:  Undefined variable $item in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[07-May-2025 00:27:22 UTC] PHP Warning:  Attempt to read property "notifier_id" on null in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[07-May-2025 00:27:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_userdata() in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 7
+[10-May-2025 23:01:11 UTC] PHP Warning:  Undefined variable $item in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[10-May-2025 23:01:11 UTC] PHP Warning:  Attempt to read property "notifier_id" on null in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[10-May-2025 23:01:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_userdata() in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 7
+[15-Jun-2025 22:08:19 UTC] PHP Warning:  Undefined variable $item in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[15-Jun-2025 22:08:19 UTC] PHP Warning:  Attempt to read property "notifier_id" on null in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[15-Jun-2025 22:08:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_userdata() in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 7
+[02-Jul-2025 18:50:12 UTC] PHP Warning:  Undefined variable $item in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[02-Jul-2025 18:50:12 UTC] PHP Warning:  Attempt to read property "notifier_id" on null in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[02-Jul-2025 18:50:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_userdata() in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 7
+[02-Jul-2025 19:53:05 UTC] PHP Warning:  Undefined variable $item in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[02-Jul-2025 19:53:05 UTC] PHP Warning:  Attempt to read property "notifier_id" on null in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[02-Jul-2025 19:53:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_userdata() in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 7
+[19-Jul-2025 02:41:18 UTC] PHP Warning:  Undefined variable $item in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[19-Jul-2025 02:41:18 UTC] PHP Warning:  Attempt to read property "notifier_id" on null in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 6
+[19-Jul-2025 02:41:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_userdata() in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zanaepqs/public_html/wp-content/plugins/play-block/templates/user/notification.php on line 7
